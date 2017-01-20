@@ -1,0 +1,31 @@
+.livestream{
+
+    height:40vh;
+    border: 1px solid black;
+}
+
+.event{
+
+    height:30vh;
+    border: 1px solid black;
+
+}
+
+.panels>div{
+
+    height: 25vh;
+    border: 1px solid black;
+}
+
+.stream{
+    height:25vh;
+    border: 1px solid black;
+
+}
+
+.footer>div{
+
+    height:25vh;
+    border: 1px solid black;
+}
+
