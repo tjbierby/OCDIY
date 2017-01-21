@@ -1,8 +1,36 @@
 .livestream{
 
-    height:40vh;
+    height:50vh;
     border: 1px solid black;
 }
+
+.livestream-right{
+
+    height:50vh;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.social{
+
+    height:10vh;
+}
+
+.subscribe-youtube{
+
+    height:10vh;
+    border:5px solid white;
+    padding: 5px 5px 5px 5px;
+    background-color: #bc6923;
+}
+
+.youtube-latest{
+
+    height:30vh;
+    border: 1px solid black;
+}
+
+
 
 .event{
 
@@ -35,6 +63,7 @@
     border: 1px solid black;
 }
 
+
 #youre_watching{
     background-color:black;
     height:4vh;
@@ -53,3 +82,4 @@
 
 
 }
+
