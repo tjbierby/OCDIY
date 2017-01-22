@@ -168,12 +168,17 @@
 .menu{
     padding:0;
     margin:0;
-
-}
-.menu>li{
-
     list-style-type: none;
+
+
 }
+
+.menu li{
+
+    padding-top:1.3vh;
+}
+
+
 
 
 .share div{
