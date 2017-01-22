@@ -28,7 +28,7 @@
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.5135135">
-                  <caret line="151" column="163" selection-start-line="151" selection-start-column="163" selection-end-line="151" selection-end-column="163" />
+                  <caret line="155" column="52" selection-start-line="155" selection-start-column="52" selection-end-line="155" selection-end-column="52" />
                   <folding />
                 </state>
               </provider>
@@ -41,9 +41,11 @@
           <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/stylesheet.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.65736043">
-                  <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-                  <folding />
+                <state vertical-scroll-proportion="0.6954315">
+                  <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+                  <folding>
+                    <marker date="1485068208000" expanded="true" signature="11:25" placeholder="{...}" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -170,9 +172,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="716" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3253205" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3253205" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -220,7 +222,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1485068208000" expanded="true" signature="11:25" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -236,7 +240,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1485068208000" expanded="true" signature="11:25" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -252,7 +258,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1485068208000" expanded="true" signature="11:25" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -268,22 +276,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1485068208000" expanded="true" signature="11:25" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65736043">
-          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.6954315">
+          <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+          <folding>
+            <marker date="1485068208000" expanded="true" signature="11:25" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5135135">
-          <caret line="151" column="163" selection-start-line="151" selection-start-column="163" selection-end-line="151" selection-end-column="163" />
+          <caret line="155" column="52" selection-start-line="155" selection-start-column="52" selection-end-line="155" selection-end-column="52" />
           <folding />
         </state>
       </provider>
