@@ -103,3 +103,8 @@
 
 }
 
+.footer>div{
+
+    border:4px solid blue;
+    height:20vh;
+}
