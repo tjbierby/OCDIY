@@ -74,7 +74,7 @@
 .footer{
 
     height:20vh;
-    border: 1px solid black;
+
 }
 
 
@@ -105,10 +105,11 @@
 
 .footer>div{
 
-    border:4px solid blue;
+
     height:20vh;
     text-align: center;
     font-size:2.35vh;
+    background-color: lightgray;
 
 }
 
