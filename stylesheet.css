@@ -82,17 +82,19 @@
 }
 
 
-.event{
+#upcoming_shows div{
 
     height:30vh;
-    border: 1vh solid white;
     color: white;
     font-size: 5vh;
     text-align: center;
     background-color: black;
     border-radius: 2vh;
-
-
+    border-top: 1vh;
+    border-bottom: 1vh;
+    border-color: white;
+    border-style: solid;
+    padding:0;
 }
 
 .panels>div{
@@ -133,7 +135,7 @@
     height:4vh;
     text-align: center;
     font-size: 3vh;
-    color: orangered;
+    color: white;
 
 }
 
@@ -142,7 +144,7 @@
     height:4vh;
     text-align: center;
     font-size: 3vh;
-    color: orangered;
+    color: white;
 
 
 }
@@ -174,5 +176,9 @@
 }
 
 
+.share div{
+    text-align: center;
+    font-size:4vh;
 
+}
 
