@@ -12,9 +12,7 @@
 }
 
 .social{
-
     height:10vh;
-
 }
 
 
@@ -70,7 +68,18 @@
     border-left:   1vh solid #ffffff;    background-color: #24201d;
 }
 
+#show-countdown{
+    color: #bc6923;
+    font-size: 5vh;
+    text-align: center;
+    
+}
+#show-countdown-time{
+    color: black;
+    font-size: 5vh;
+    text-align: center;
 
+}
 
 
 .event{
