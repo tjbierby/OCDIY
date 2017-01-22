@@ -107,4 +107,18 @@
 
     border:4px solid blue;
     height:20vh;
+    text-align: center;
+    font-size:2.35vh;
+
 }
+
+.menu{
+    padding:0;
+    margin:0;
+
+}
+.menu>li{
+
+    list-style-type: none;
+}
+
