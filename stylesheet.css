@@ -26,6 +26,24 @@
     padding: 10px 10px 10px 10px;
 }
 
+.subscribe-mail>div{
+
+    font-size: 2.4vh;
+}
+
+.subscribe{
+    height:5vh;
+    width:5vh;
+
+
+}
+
+.subscribe strong{
+    font-size:3vh;
+
+
+}
+
 .upcoming-shows {
     font-size: .5em;
     color: white;
