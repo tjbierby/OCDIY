@@ -27,7 +27,7 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.7567568">
+                <state vertical-scroll-proportion="-0.17567568">
                   <caret line="100" column="62" selection-start-line="100" selection-start-column="62" selection-end-line="100" selection-end-column="62" />
                   <folding />
                 </state>
@@ -41,7 +41,7 @@
           <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/stylesheet.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.57106596">
+                <state vertical-scroll-proportion="2.0558376">
                   <caret line="76" column="12" selection-start-line="76" selection-start-column="12" selection-end-line="76" selection-end-column="12" />
                   <folding />
                 </state>
@@ -290,7 +290,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57106596">
+        <state vertical-scroll-proportion="2.0558376">
           <caret line="76" column="12" selection-start-line="76" selection-start-column="12" selection-end-line="76" selection-end-column="12" />
           <folding />
         </state>
@@ -298,7 +298,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7567568">
+        <state vertical-scroll-proportion="-0.17567568">
           <caret line="100" column="62" selection-start-line="100" selection-start-column="62" selection-end-line="100" selection-end-column="62" />
           <folding />
         </state>
